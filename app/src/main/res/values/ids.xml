@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="coursename" type="id" />
+    <item name="description" type="id" />
+    <item name="update" type="id" />
+    <item name="delete" type="id" />
+    <item name="addcourse" type="id" />
+    <item name="readcourse" type="id" />
+</resources>
